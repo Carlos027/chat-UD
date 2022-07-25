@@ -1,0 +1,20 @@
+{
+  "name": "chat-ud",
+  "version": "1.0.0",
+  "description": "un simple chat con Express y socket.IO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat",
+    "Express",
+    "socket.IO"
+  ],
+  "author": "Carlos Quimbay",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
